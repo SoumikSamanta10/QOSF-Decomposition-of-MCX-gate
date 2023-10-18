@@ -1,4 +1,4 @@
-# **Decomposition-of-MCX-gate**
+# **Decomposition of MCX gate**
 ## **QOSF Mentorship Program** 
 
 **Task 3:** Decompose
@@ -7,7 +7,7 @@ The project [report]() in the folder `Report'.
 
 ## **Project Description:**
 
-The multi-controlled Toffoli(MCX) gate is essential to many quantum operations including the Glover operator, logical AND, various state preparation algorithms and arithmetic comparators. The decomposition of complex controlled operations (like CCX, CCCX) can be implemented using circuit built from elementary operations. But it is very complicated to constract MCX in minimum depth which being helpful in practical large scale designs.
+   The multi-controlled Toffoli(MCX) gate is essential to many quantum operations including the Glover operator, logical AND, various state preparation algorithms and arithmetic comparators. The decomposition of complex controlled operations (like CCX, CCCX) can be implemented using circuit built from elementary operations. But it is very complicated to constract MCX in minimum depth which being helpful in practical large scale designs.
    In this project, we report standard decomposition of CCX & CCCX gates using the unitary U & CX gate and Ry(θ) based decomposition using qiskit library. We proposed reduced Toffoli gates without preserving control qubits and to find the best way to construct n-controlled MCX gate automatically, we used classical optimizer. We also discussed the spectral decomposition of MCX using qiskit pulse, which could provide better results.
    
 
