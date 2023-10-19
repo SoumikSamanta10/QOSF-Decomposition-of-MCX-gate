@@ -1,4 +1,4 @@
-# **Decomposition of MCX gate**
+# **Decomposition of Toffoli gates for MCX optimization**
 ## **QOSF Mentorship Program** 
 
 **Task 3:** Decompose
