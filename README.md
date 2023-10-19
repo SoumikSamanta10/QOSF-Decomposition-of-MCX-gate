@@ -3,7 +3,7 @@
 
 **Task 3:** Decompose
 
-The project [report](https://github.com/SoumikSamanta10/QOSF-Decomposition-of-MCX-gate/blob/abbdddc69430a86bd3df9fb02302f27d3f053557/QOSF_MCX_report.pdf) in the folder `Report'.
+The project [report](https://github.com/SoumikSamanta10/QOSF-Decomposition-of-Toffoli-gates-for-MCX-optimization/blob/b3ea4f57a7d62dadc543ac8f93e51728c01622fd/Decomposition%20of%20Toffoli%20gates%20for%20MCX%20optimization.pdf) in the folder `Report'.
 
 ## **Project Description:**
 
