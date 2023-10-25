@@ -28,4 +28,4 @@ The multi-controlled Toffoli(MCX) gate is essential to many quantum operations i
 
 [3] Classiq Coding Competition Spring 2022
 
-[4] Building pulse schedules — qiskit 0.37.0 documentation.
+[4] Pulse (qiskit.pulse) - Qiskit 0.44.2 documentation
